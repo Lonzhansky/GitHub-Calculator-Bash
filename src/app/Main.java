@@ -11,6 +11,7 @@ public class Main {
         System.out.println(c);
         int d = multiply(a, b);
         System.out.println(d);
+         System.out.println("Hello");
     }
 
     private static int add(int a, int b) {
