@@ -14,7 +14,4 @@ public class Main {
     private static int add(int a, int b) {
         return a + b;
     }
-
-
-
 }
